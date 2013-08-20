@@ -1,4 +1,4 @@
-Anglr_app
+Anglr
 =========
 
 New Anglr rails app
